@@ -119,3 +119,8 @@ My hobby is building a personal brand by teaching Python Backend courses at my u
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aleksandr_developer_backend) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandr.riabinski@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-ribinski) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribinski) [![Phone](https://img.shields.io/badge/Phone-%2B7%20(926)%20660--3633-007EC6?style=for-the-badge&logo=phone&logoColor=white)](tel:+79266603633)
 
 ---
+
+## PDF resume!
+
+[![PDF Resume](https://img.shields.io/badge/📄_PDF_Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+
