@@ -4,15 +4,29 @@
 📍 UTC+4 (Tbilisi, Georgia)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aleksandr_developer_backend) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aleksandr.riabinski@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksander-ribinski) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ribinski) [![Phone](https://img.shields.io/badge/Phone-%2B7%20(926)%20660--3633-007EC6?style=for-the-badge&logo=phone&logoColor=white)](tel:+79266603633)
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a Python Backend Developer with 6+ years of commercial experience building distributed services and improving production performance. My key experience includes:
+I am a Python Backend Developer with 6+ years of commercial experience building distributed services and improving production
+performance. I have worked across fintech and edtech domains. Over the years I've gained experience across a wide range of domains and
+technologies:
 
-- End-to-end development and maintenance of a platform of varying complexity (FinTech, EdTech, high-load, microservices, event-driven, LLM integration)
-- Building efficient backend systems for B2B analytics systems
-- Deep expertise with PostgreSQL including optimization and API design
+- I have hands-on experience working with both high-load and moderate-scale systems, monolithic and microservices architectures, and
+have integrated LL
+M solutions into production products.
+- On the database side, I have deep expertise with PostgreSQL, including query optimization and schema design. I've also worked with
+Redis for caching, ClickHouse for analytical workloads, OpenSearch for log storage and vector search, MongoDB for document-oriented
+data, and Greenplum for large-scale data warehousing.
+- On the APIs side, I'm proficient in designing and implementing REST, gRPC, GraphQL, and WebSocket interfaces, with a focus on clean
+contracts and performance.
+- For messaging and event streaming, I have practical experience with Kafka and RabbitMQ — building event-driven systems, handling
+asynchronous communication between services, and ensuring reliable data streaming.
+- On the infrastructure side, I'm comfortable with Docker, Kubernetes, and OpenShift for containerization and orchestration, and use Helm
+for managing deployments.
+- Finally, for logging and observability, I have hands-on experience with the ELK stack and OpenSearch combined with Grafana for
+centralized logging, and Jaeger for distributed tracing.
 
 ---
 
