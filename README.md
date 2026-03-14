@@ -14,8 +14,7 @@ performance. I have worked across fintech and edtech domains. Over the years I'v
 technologies:
 
 - I have hands-on experience working with both high-load and moderate-scale systems, monolithic and microservices architectures, and
-have integrated LL
-M solutions into production products.
+have integrated LLM solutions into production products.
 - On the database side, I have deep expertise with PostgreSQL, including query optimization and schema design. I've also worked with
 Redis for caching, ClickHouse for analytical workloads, OpenSearch for log storage and vector search, MongoDB for document-oriented
 data, and Greenplum for large-scale data warehousing.
